@@ -4,7 +4,7 @@
 
 ## Introduction
 
-PDFCraft ("we," "our," "us," or "the App") is committed to protecting your privacy. This Privacy Policy explains how our mobile application collects, uses, and safeguards your information.
+PDFCraft the App is committed to protecting your privacy. This Privacy Policy explains how our mobile application collects, uses, and safeguards your information.
 
 **Developer Contact:**  
 Email: soranisunil22@gmail.com  
