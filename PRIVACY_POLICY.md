@@ -242,7 +242,7 @@ We comply with applicable data protection laws in all jurisdictions where the Ap
 
 If you have questions, concerns, or requests regarding this Privacy Policy or your data:
 
-**Email:** [YOUR-EMAIL@example.com]  
+**Email:** soranisunil22@gmail.com   
 **Response Time:** We aim to respond within 48 hours
 
 For AdMob-related privacy concerns, contact Google directly:
